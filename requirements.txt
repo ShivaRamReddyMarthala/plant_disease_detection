@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+pandas
+numpy
+paho-mqtt
+Pillow
+ultralytics
+cvzone

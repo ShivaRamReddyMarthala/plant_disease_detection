@@ -1,0 +1,778 @@
+[
+    {
+        "temperature": 57.5,
+        "humidity": 65.0
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 57.5,
+        "humidity": 65.0
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 11.7,
+        "humidity": 28.5
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 11.7,
+        "humidity": 28.5
+    },
+    {
+        "temperature": 11.7,
+        "humidity": 28.5
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "temperature": 62.5,
+        "humidity": 70.0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "ldr_analog": 126,
+        "ldr_digital": 0
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 29.76,
+        "humidity": 61.45
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.67,
+        "humidity": 60.18
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 23.52,
+        "humidity": 50.84
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 23.07,
+        "humidity": 62.82
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 22.05,
+        "humidity": 41.78
+    },
+    {
+        "temperature": 22.05,
+        "humidity": 41.78
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 27.48,
+        "humidity": 53.77
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 20.26,
+        "humidity": 58.05
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 22.57,
+        "humidity": 38.06
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 30.15,
+        "humidity": 50.76
+    },
+    {
+        "temperature": 30.15,
+        "humidity": 50.76
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 26.85,
+        "humidity": 66.77
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 30.54,
+        "humidity": 39.96
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 27.5,
+        "humidity": 42.46
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 21.46,
+        "humidity": 33.59
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.11,
+        "humidity": 57.89
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 32.25,
+        "humidity": 50.52
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 27.99,
+        "humidity": 65.02
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.39,
+        "humidity": 61.13
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.91,
+        "humidity": 30.17
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 27.07,
+        "humidity": 51.45
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 23.11,
+        "humidity": 48.59
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 22.91,
+        "humidity": 55.14
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 29.26,
+        "humidity": 63.38
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 31.82,
+        "humidity": 49.54
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.83,
+        "humidity": 46.2
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.95,
+        "humidity": 56.08
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.28,
+        "humidity": 41.11
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 20.44,
+        "humidity": 64.21
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 34.23,
+        "humidity": 63.73
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.74,
+        "humidity": 39.31
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 27.05,
+        "humidity": 30.36
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 29.96,
+        "humidity": 57.77
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 22.49,
+        "humidity": 30.2
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 31.44,
+        "humidity": 48.81
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.41,
+        "humidity": 48.67
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 32.52,
+        "humidity": 32.95
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 29.29,
+        "humidity": 31.59
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 33.1,
+        "humidity": 37.88
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 27.93,
+        "humidity": 66.94
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 30.88,
+        "humidity": 40.47
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 26.32,
+        "humidity": 39.78
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 23.89,
+        "humidity": 65.78
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 31.25,
+        "humidity": 57.47
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 34.74,
+        "humidity": 58.67
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 23.0,
+        "humidity": 37.24
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.25,
+        "humidity": 36.8
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 31.51,
+        "humidity": 58.29
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.75,
+        "humidity": 42.05
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.96,
+        "humidity": 65.93
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 26.06,
+        "humidity": 53.68
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 24.33,
+        "humidity": 65.18
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 34.72,
+        "humidity": 45.53
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.17,
+        "humidity": 35.82
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 33.0,
+        "humidity": 66.63
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 22.67,
+        "humidity": 49.5
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 24.16,
+        "humidity": 56.35
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.25,
+        "humidity": 30.38
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 25.34,
+        "humidity": 67.4
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.2,
+        "humidity": 42.93
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 30.03,
+        "humidity": 53.89
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 27.62,
+        "humidity": 48.9
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 29.68,
+        "humidity": 47.01
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 33.69,
+        "humidity": 58.82
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 32.7,
+        "humidity": 47.33
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 24.13,
+        "humidity": 48.34
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 34.01,
+        "humidity": 53.01
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 26.04,
+        "humidity": 51.42
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 22.21,
+        "humidity": 56.65
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 34.47,
+        "humidity": 59.67
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 34.17,
+        "humidity": 33.23
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 32.93,
+        "humidity": 36.39
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 26.89,
+        "humidity": 36.04
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.07,
+        "humidity": 38.25
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 33.9,
+        "humidity": 60.53
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 20.07,
+        "humidity": 53.38
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 33.81,
+        "humidity": 41.63
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 28.8,
+        "humidity": 48.2
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    },
+    {
+        "temperature": 32.47,
+        "humidity": 51.57
+    },
+    {
+        "ldr_analog": 1001,
+        "ldr_digital": 0
+    }
+]
